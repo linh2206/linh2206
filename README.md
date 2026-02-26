@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58A6FF&height=200&section=header&text=Le%20Hoai%20Linh&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Developer%20%7C%204%2B%20Years&descSize=16&descColor=8b949e&descAlignY=55" width="100%"/>
-
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Healthcare+%7C+Education+%7C+E-commerce+%7C+IoT;Node.js+%7C+Go+%7C+React+%7C+Next.js&font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50" alt="Typing SVG" /></a>
+# Le Hoai Linh
+
+**Full-stack Developer · 4+ years · Ho Chi Minh City, Vietnam** 🇻🇳
 
 <br/>
 
@@ -21,13 +21,9 @@
 
 ### 👤 About
 
-```
-📍 Ho Chi Minh City, Vietnam
-✉️ lehoailinh2206@gmail.com
-📞 +84 97 264 5991
-```
-
 Full-stack Developer with **4+ years of experience** across healthcare, education, e-commerce, media, and IoT. Proficient in **Node.js, Go, Laravel, React.js, NestJS, Next.js**. Passionate about building scalable systems and learning new technologies.
+
+📍 Ho Chi Minh City, Vietnam · ✉️ lehoailinh2206@gmail.com · 📞 +84 97 264 5991
 
 ---
 
@@ -104,4 +100,8 @@ Full-stack Developer with **4+ years of experience** across healthcare, educatio
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1a1b27&height=100&section=footer" width="100%"/>
+<div align="center">
+
+*Thanks for visiting!*
+
+</div>
