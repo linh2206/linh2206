@@ -24,19 +24,15 @@
 
 ### 👤 About
 
-```js
-const linh = {
-    role: "Full-stack Developer",
-    experience: "4+ years",
-    location: "Ho Chi Minh City, Vietnam",
-    contact: {
-        email: "lehoailinh2206@gmail.com",
-        phone: "+84 97 264 5991"
-    },
-    domains: ["Healthcare", "Education", "E-commerce", "Media", "IoT"],
-    passion: "Building scalable systems & learning new technologies"
-};
-```
+Full-stack Developer with **4+ years of experience** building scalable systems across multiple domains. Passionate about clean architecture and learning new technologies.
+
+| | |
+|:--|:--|
+| 📍 **Location** | Ho Chi Minh City, Vietnam |
+| ✉️ **Email** | lehoailinh2206@gmail.com |
+| 📞 **Phone** | +84 97 264 5991 |
+| 💼 **Domains** | Healthcare · Education · E-commerce · Media · IoT |
+| 🔧 **Main Stack** | Node.js · Go · React · Next.js · NestJS · Laravel |
 
 ---
 
