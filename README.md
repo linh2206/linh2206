@@ -1,19 +1,23 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=header" width="100%"/>
+
 # Le Hoai Linh
 
-**Full-stack Developer · 4+ years · Ho Chi Minh City, Vietnam** 🇻🇳
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer+%7C+4%2B+Years;Node.js+%7C+Go+%7C+React+%7C+Next.js;Healthcare+%7C+Education+%7C+E-commerce+%7C+IoT&font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=40" alt="Typing SVG"/></a>
+
+📍 Ho Chi Minh City, Vietnam 🇻🇳
 
 <br/>
 
-<a href="https://linh2206.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:lehoailinh2206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="tel:+84972645991"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>&nbsp;
-<a href="https://github.com/linh2206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linh2206.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="mailto:lehoailinh2206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="tel:+84972645991"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/linh2206"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=linh2206&style=flat-square&color=58A6FF&label=Profile+Views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=linh2206&style=flat-square&color=58A6FF&label=Profile+Views"/>
 
 </div>
 
@@ -23,7 +27,7 @@
 
 Full-stack Developer with **4+ years of experience** across healthcare, education, e-commerce, media, and IoT. Proficient in **Node.js, Go, Laravel, React.js, NestJS, Next.js**. Passionate about building scalable systems and learning new technologies.
 
-📍 Ho Chi Minh City, Vietnam · ✉️ lehoailinh2206@gmail.com · 📞 +84 97 264 5991
+✉️ lehoailinh2206@gmail.com &nbsp;·&nbsp; 📞 +84 97 264 5991
 
 ---
 
@@ -31,11 +35,11 @@ Full-stack Developer with **4+ years of experience** across healthcare, educatio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,laravel,go,php,python&perline=10" alt="Languages & Frameworks"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,laravel,go,php,python&perline=10"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind,bootstrap&perline=10" alt="Tools & DB"/>
+<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind,bootstrap&perline=10"/>
 
 </div>
 
@@ -98,10 +102,8 @@ Full-stack Developer with **4+ years of experience** across healthcare, educatio
 
 ⚽ Soccer &nbsp;&nbsp; 🎵 Music
 
----
-
 <div align="center">
 
-*Thanks for visiting!*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
 
 </div>
