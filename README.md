@@ -24,9 +24,19 @@
 
 ### 👤 About
 
-Full-stack Developer with **4+ years of experience** across healthcare, education, e-commerce, media, and IoT. Proficient in **Node.js, Go, Laravel, React.js, NestJS, Next.js**. Passionate about building scalable systems and learning new technologies.
-
-✉️ lehoailinh2206@gmail.com &nbsp;·&nbsp; 📞 +84 97 264 5991
+```js
+const linh = {
+    role: "Full-stack Developer",
+    experience: "4+ years",
+    location: "Ho Chi Minh City, Vietnam",
+    contact: {
+        email: "lehoailinh2206@gmail.com",
+        phone: "+84 97 264 5991"
+    },
+    domains: ["Healthcare", "Education", "E-commerce", "Media", "IoT"],
+    passion: "Building scalable systems & learning new technologies"
+};
+```
 
 ---
 
