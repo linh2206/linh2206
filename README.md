@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=58A6FF&height=200&text=Le%20Hoai%20Linh&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Le%20Hoai%20Linh&fontSize=50&fontColor=58A6FF&animation=scaleIn&desc=Full-stack%20Developer%20%7C%204%2B%20Years&descColor=8b949e&descSize=18&descAlignY=75" width="100%"/>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer+%7C+4%2B+Years;Node.js+%7C+Go+%7C+React+%7C+Next.js;Healthcare+%7C+Education+%7C+E-commerce+%7C+IoT&font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=40" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Healthcare+%7C+Education+%7C+E-commerce+%7C+IoT;Node.js+%7C+Go+%7C+React+%7C+Next.js+%7C+NestJS&font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=35" alt="Typing SVG"/></a>
 
 📍 Ho Chi Minh City, Vietnam 🇻🇳
 
