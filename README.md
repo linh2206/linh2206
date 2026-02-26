@@ -25,13 +25,10 @@
 
 Full-stack Developer with **4+ years of experience** building scalable systems across multiple domains. Passionate about clean architecture and learning new technologies.
 
-| | |
-|:--|:--|
-| 📍 **Location** | Ho Chi Minh City, Vietnam |
-| ✉️ **Email** | lehoailinh2206@gmail.com |
-| 📞 **Phone** | +84 97 264 5991 |
-| 💼 **Domains** | Healthcare · Education · E-commerce · Media · IoT |
-| 🔧 **Main Stack** | Node.js · Go · React · Next.js · NestJS · Laravel |
+- 📍 Ho Chi Minh City, Vietnam
+- ✉️ lehoailinh2206@gmail.com · 📞 +84 97 264 5991
+- 💼 Healthcare · Education · E-commerce · Media · IoT
+- 🔧 Node.js · Go · React · Next.js · NestJS · Laravel
 
 ---
 
@@ -70,6 +67,11 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 > Vang Tat Mine: employee & warehouse management. Shift assignments, leave management, stock tracking & reporting.  
 > `Next.js` `NestJS` `MySQL` `MongoDB` `Go` `Redis` `Tailwind` `GitHub Actions`
 
+<details>
+<summary><b>View earlier positions</b></summary>
+
+<br/>
+
 > **WOSS Corporation** — Full-stack Developer `Mar 2022 – Feb 2024`  
 > MHP: contract management, video approval, broadcast scheduling. IoT Smart Battery: real-time GPS. Education Platform.  
 > `Node.js` `NestJS` `React` `Next.js` `Python` `Docker` `Jenkins` `PostgreSQL`
@@ -86,25 +88,22 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 > Feedback website, responsive Bootstrap layout, Angular & ReactJS.  
 > `Node.js` `EJS` `PostgreSQL` `Bootstrap` `Angular` `ReactJS`
 
----
-
-### 🎓 Education
-
-**Bachelor of Information Technology** — HUTECH University  
-*Aug 2017 – Sep 2020 · GPA 3.2/4.0*
+</details>
 
 ---
 
-### 📜 Certifications
+### 🎓 Education & Certifications
 
-- **Communication Certificate** — 2019  
-- **English B1** — 2020
+**Bachelor of Information Technology** — HUTECH University · *Aug 2017 – Sep 2020* · GPA 3.2/4.0  
+📜 Communication Certificate (2019) · English B1 (2020)
 
 ---
 
 ### ⚡ Interests
 
 ⚽ Soccer &nbsp;&nbsp; 🎵 Music
+
+---
 
 <div align="center">
 
