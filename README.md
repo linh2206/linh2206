@@ -40,7 +40,14 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind,bootstrap&perline=10"/>
+<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind,bootstrap,figma,materialui&perline=10"/>
+
+<br/>
+
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
+<a href="https://ant.design/"><img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/></a>
+<a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>
+<a href="https://mui.com/"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white"/></a>
 
 </div>
 
@@ -65,7 +72,7 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 
 > **Hvision** — Full-stack Developer `Feb 2024 – May 2025`  
 > Vang Tat Mine: employee & warehouse management. Shift assignments, leave management, stock tracking & reporting.  
-> `Next.js` `NestJS` `MySQL` `MongoDB` `Go` `Redis` `Tailwind` `GitHub Actions`
+> `Next.js` `NestJS` `MySQL` `MongoDB` `Go` `Redis` `Tailwind` `Figma` `GitHub Actions`
 
 <details>
 <summary><b>View earlier positions</b></summary>
@@ -74,7 +81,7 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 
 > **WOSS Corporation** — Full-stack Developer `Mar 2022 – Feb 2024`  
 > MHP: contract management, video approval, broadcast scheduling. IoT Smart Battery: real-time GPS. Education Platform.  
-> `Node.js` `NestJS` `React` `Next.js` `Python` `Docker` `Jenkins` `PostgreSQL`
+> `Node.js` `NestJS` `React` `Next.js` `Python` `Figma` `Docker` `Jenkins` `PostgreSQL`
 
 > **ROBUSTA** — Developer `Jan 2021 – Jan 2022`  
 > Xuyen A Hospital: REST APIs (Laravel) + React frontend. Online School: Flutter video calling, React Native revenue app.  
