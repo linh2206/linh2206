@@ -36,11 +36,11 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,laravel,go,php,python&perline=11"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,laravel,go,php&perline=10"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind&perline=9"/>
+<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind,python&perline=10"/>
 
 <br/><br/>
 
