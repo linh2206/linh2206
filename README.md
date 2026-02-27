@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Le%20Hoai%20Linh&fontSize=50&fontColor=58A6FF&animation=scaleIn&desc=Full-stack%20Developer%20%7C%204%2B%20Years&descColor=8b949e&descSize=18&descAlignY=75" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Healthcare+%7C+Education+%7C+E-commerce+%7C+IoT;Node.js+%7C+Go+%7C+React+%7C+Next.js+%7C+NestJS&font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=35" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Healthcare+%7C+Education+%7C+E-commerce+%7C+Media+%7C+IoT;Node.js+%7C+Go+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Laravel&font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=35" alt="Typing SVG"/></a>
 
 📍 Ho Chi Minh City, Vietnam 🇻🇳
 
@@ -36,13 +36,15 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,laravel,go,php,python&perline=10"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,laravel,go,php,python&perline=10"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind,bootstrap,figma,materialui&perline=10"/>
+<img src="https://skillicons.dev/icons?i=flutter,docker,jenkins,aws,postgresql,mysql,mongodb,redis,tailwind&perline=9"/>
 
-<br/>
+<br/><br/>
+
+**Design & UI**
 
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <a href="https://ant.design/"><img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=antdesign&logoColor=white"/></a>
@@ -56,7 +58,8 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 | Category | Technologies |
 |:---------|:-------------|
 | **Languages** | JavaScript, TypeScript, PHP, Python, Go |
-| **Frontend** | React, Next.js, Redux, Tailwind CSS, Bootstrap, Ant Design, MUI |
+| **Frontend** | React, Next.js, Redux, Tailwind CSS |
+| **Design & UI** | Figma, Ant Design, Bootstrap, MUI |
 | **Backend** | Node.js, NestJS, Laravel, Express |
 | **Mobile** | Flutter, React Native |
 | **Database** | PostgreSQL, MySQL, MongoDB, Redis |
