@@ -36,7 +36,7 @@ Full-stack Developer with **4+ years of experience** building scalable systems a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,laravel,go,php,python&perline=10"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,express,laravel,go,php,python&perline=11"/>
 
 <br/><br/>
 
